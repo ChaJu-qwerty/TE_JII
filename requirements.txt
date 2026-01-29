@@ -1,2 +1,4 @@
-flask
+Flask
+Flask-Cors
 gunicorn
+numpy
